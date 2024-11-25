@@ -1,4 +1,4 @@
-# PLP-Peer-To-Peer--Group-18
+# PLP-Peer-To-Peer--Group-18 
 ![Alt text](assets/Hackathon-poster.jpg)
 
 ## Team Project Repository
